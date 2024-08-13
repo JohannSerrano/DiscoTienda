@@ -1,0 +1,10 @@
+Reporte discos Rock y Pop de 3500
+============================
+Disco: Confessions on a Dance Floor
+Genero:Pop
+Precio: 3600.0
+------------------------------------
+Disco: Is This It
+Genero:Rock
+Precio: 3600.0
+------------------------------------
